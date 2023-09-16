@@ -1,0 +1,28 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-gutenberg-slick-slider {
+	
+	padding: 2px;
+}
+
+img
+{
+  width: 100%;
+  height: auto;
+}
+.slick-ul 
+{
+  padding: 0;
+  margin: 0;
+}
+.slick-ul .slick-prev:before, 
+.slick-ul .slick-next:before 
+{
+  color: #000;
+  opacity: 1;
+}
